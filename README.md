@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nagarjuna</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nagarjuna06&label=Profile%20views&color=0e75b6&style=flat" alt="nagarjuna06" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nagarjuna06" alt="nagarjuna06" /></a> </p>
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [portofolio](https://nagarjuna.vercel.app)
+- 👨‍💻 All of my projects are available at [portfolio](https://nagarjuna.vercel.app)
 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **chennanagarjuna4@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1Q3DqG_MYCWsV87Ko0M7F7Iw4IG91CXP6/view?usp=sharing&authuser=0)
+- 📄 Know about my experiences in [resume](https://drive.google.com/file/d/1Q3DqG_MYCWsV87Ko0M7F7Iw4IG91CXP6/view?usp=sharing&authuser=0)
 
 - ⚡ Fun fact **I think I am funny**
 
