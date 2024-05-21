@@ -8,15 +8,10 @@
 
 - 👨‍💻 All of my projects are available at [portfolio](https://nagarjuna.vercel.app)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **HTML**, **CSS**, **JS**, **REACT**
 
 - 📫 How to reach me **chennanagarjuna4@gmail.com**
 
-- 📄 Know about my experiences in [resume](https://drive.google.com/file/d/1Q3DqG_MYCWsV87Ko0M7F7Iw4IG91CXP6/view?usp=sharing&authuser=0)
-
-- 👀 I’m interested in both Frontend and Backend Development
-  
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
